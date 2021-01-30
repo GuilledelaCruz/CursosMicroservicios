@@ -7,7 +7,7 @@ Code generated in courses involving Microservices. Visit my personal webpage to 
 
 ## In28Minutes courses
 
-#### (Cursando/In Progress)Master Microservices with Spring Boot and Spring Cloud (Udemy)
+#### (Cursando/In Progress) Master Microservices with Spring Boot and Spring Cloud [Udemy]
 
 [![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
 
@@ -16,6 +16,8 @@ Code generated in courses involving Microservices. Visit my personal webpage to 
   - Load Balancing with Spring Cloud LoadBalancer (replacing Ribbon)
   - API Gateway with Spring Cloud Gateway (instead of Zuul)
   - Circuit Breaker with Resilience4j (instead of Hystrix)
+  - Distributed Tracing with Zipkin
+  - Asynchronous Communication using Rabbit MQ
 - Docker
 - Kubernetes
 
